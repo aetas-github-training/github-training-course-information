@@ -1,20 +1,31 @@
+﻿# GitHub Training Course Exercises 
 
-Module 2
 
-Exercise 1
 
-Creating a Repository
+
+## Module 2
+
+### Exercise 1
+
+#### Creating a Repository
 
 When creating our own repository:
-1) Make sure private is checked 
+
+1) Make sure private is checked
+ 
 2) Name the repo, “lastname-test-repo” 
-Follow proper nomenclature when naming your repo
+
+3)Follow proper nomenclature when naming your repo
   -Lower case
   -No spaces (use “-”) 
-3) Make Sure to Initialize with Readme 
-4) Add collaborators
+
+4) Make Sure to Initialize with Readme 
+
+5) Add collaborators
   -Add Training Team
-5) Edit Readme file 
+
+6) Edit Readme file 
   -Add “Hello my name is Your Name and this is my repository”
   -Add a second line with “My course partner is” 
-6) View the file diff view to see the changes 
+
+7) View the file diff view to see the changes 
