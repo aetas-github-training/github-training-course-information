@@ -13,13 +13,15 @@ When creating our own repository:
 
 1) Make sure private is checked
  
-2) Name the repo, “lastname-test-repo” 
+2) Name the repo, “lastname-test-repo”
+
+	-Use your lastname 
 
 3) Follow proper nomenclature when naming your repo
   
 	-Lower case
  
-	 -No spaces (use “-”) 
+	-No spaces (use “-”) 
 
 4) Make Sure to Initialize with Readme 
 
