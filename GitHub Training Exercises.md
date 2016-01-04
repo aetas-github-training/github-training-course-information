@@ -57,7 +57,10 @@ Now that our repo has been created we can create an issue within our new repo
 
 6) Assign this issue to your yourself
 
-7) In the comments section “@mention” your partner and add a note stating, “Hi “@mentioned user” I need to add your name to my readme file.  Please provide me your full name so I can update this file.  Thank you”
+7) In the comments section add comment and “@mention” to your partner with a note stating":
+
+	-“Hi “@mentioned user” I need to add your name to my readme file.  Please provide me your full name so I can update this file.  	Thank you”
+
 	-User will reply with details
 
 8) Leave issue open
